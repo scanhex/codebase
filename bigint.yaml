@@ -1,0 +1,20 @@
+title: bigint
+author: ngthanhtrung23
+added by: scanhex
+link: https://github.com/ngthanhtrung23/ACM_Notebook_new/blob/master/Math/bigint.h
+short description: Fast multiplication, slow division and sqrt
+asymptotics: O(n log n) multiplication
+signatures:
+  - BigInt::BigInt()
+  - BigInt::BigInt(long long v)
+  - BigInt::BigInt(const string& s) 
+  - BigInt operator+(BigInt a, BigInt b)
+  - BigInt operator-(BigInt a, BigInt b)
+  - BigInt operator*(BigInt a, BigInt b)
+tags:
+  - fft
+  - fast multiplication
+  - bigint
+  - division
+  - sqrt
+  - karatsuba
