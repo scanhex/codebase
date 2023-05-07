@@ -1,0 +1,14 @@
+title: kuhn
+author: Lukas Polacek
+added by: scanhex
+link: https://github.com/kth-competitive-programming/kactl/blob/main/content/graph/DFSMatching.h 
+short description: Bipartite matching (Kuhn's algorithm). 
+asymptotics: O(VE)
+signatures:
+  - int bipartiteMatching(const vector<vector<int>>& g, vector<int>& btoa)
+tags:
+  - kuhn
+  - bipartite 
+  - matching 
+  - assignment
+  - unweighted
