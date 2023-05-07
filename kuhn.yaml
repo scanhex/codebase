@@ -9,6 +9,7 @@ signatures:
 tags:
   - kuhn
   - bipartite 
+  - augmenting
   - matching 
   - assignment
   - unweighted
